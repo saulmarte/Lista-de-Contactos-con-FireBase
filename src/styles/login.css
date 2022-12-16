@@ -1,0 +1,38 @@
+.Login__container {
+    min-width: 350px;
+    background-color: #FECEE9;
+    border-radius: 10px;
+    padding: 40px;
+    margin: auto;
+    box-shadow: 1px 1px 1px 1px #0003;
+}
+
+.form__btn {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.form__btn__google {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 20px;
+}
+
+.form__btn__google button {
+    display: flex;
+    gap: 0.5em;
+    margin-bottom: 20px;
+}
+
+.LogIn_text {
+    text-align: center;
+}
+
+.error-panel {
+    padding: 10px;
+    text-align: center;
+    color: #FECEE9;
+}
